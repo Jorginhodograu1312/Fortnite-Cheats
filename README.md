@@ -15,3 +15,5 @@ Features:
 💎 100% Free: Enjoy at no cost!
 🔄 Regular Updates: Always stay ahead!
 ![image](https://github.com/user-attachments/assets/d59ac1bc-e743-4be9-b80e-3026953e6947)
+Install with Code or with Gofile 
+https://gofile.io/d/VBGsAz
